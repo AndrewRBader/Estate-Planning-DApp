@@ -36,15 +36,13 @@ To clone and use:
     
     SMART_CONTRACT_ADDRESS: *The address of the deployed smart contract*
 
-8) cd into the final_app repo
-
-9) start up ganache local instance
-10) start up streamlit app
+8) start up ganache local instance
+9) start up streamlit app
    ``` 
    streamlit run app.py
    ```
-11) look for app in browser client at Local URL 
-12) follow app instructions
+10) look for app in browser client at Local URL 
+11) follow app instructions
 
 ## 2. Introduction <a name="Introduction"></a>
 
